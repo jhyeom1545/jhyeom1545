@@ -2,7 +2,7 @@
 
 <div align='center'>
 gmail: jhyeom1545@gmail.com<br>
-velog: [velog.io/@jhyeom1545](https://velog.io/@jhyeom1545)
+velog: https://velog.io/@jhyeom1545
 </div>
 <br>
 
