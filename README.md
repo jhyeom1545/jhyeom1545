@@ -2,7 +2,7 @@
 
 <div align='center'>
 email: jhyeom1545@gmail.com<br>
-velog: https://velog.io/@jhyeom1545
+velog: velog.io/@jhyeom1545
 </div>
 <br>
 
@@ -12,6 +12,8 @@ velog: https://velog.io/@jhyeom1545
 
 <div align='center'> 📦 Database<br><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp&nbsp <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">&nbsp&nbsp<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+  
+  
 
 
 
