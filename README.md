@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&&color=auto&height=300&section=header&text=Welcome&fontSize=90)
-<!---->
-<div align='center'> Stack </div>
-email: jhyeom1545@gmail.com
+
+<div align='center'> Stack 
+email: jhyeom1545@gmail.com<br>
 velog: https://velog.io/@jhyeom1545
+</div>
 
 stack
 <div align='center'> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">&nbsp&nbsp <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"></div>
