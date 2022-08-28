@@ -26,9 +26,9 @@ velog: [velog.io/@jhyeom1545](https://velog.io/@jhyeom1545)
 </div><br><br>
 
 <div align='center'> 🛠 Tools<br><br>
-  <img src="https://img.shields.io/badge/GraphQL-#E10098?style=for-the-badge&logo=GraphQL&logoColor=white">&nbsp&nbsp
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white">&nbsp&nbsp
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">&nbsp&nbsp
-  <img src="https://img.shields.io/badge/NestJS-#E0234E?style=for-the-badge&logo=NestJS&logoColor=white">&nbsp&nbsp
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">&nbsp&nbsp
 </div><br><br>
 
 
